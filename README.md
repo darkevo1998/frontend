@@ -19,18 +19,18 @@ PostgreSQL
 2. Install Dependencies
    Install the necessary dependencies by running the following command:
 
-npm install
-or
-yarn install
+   npm install
+   or
+   yarn install
 
-4. Run the Backend Server
+3. Run the Backend Server
    After compiling TypeScript, start the backend server:
 
-npm start
-or if you are using yarn:
-
-yarn start
-The backend will now be running at http://localhost:5000.
+   npm start
+   or if you are using yarn:
+   
+   yarn start
+   The backend will now be running at http://localhost:5000.
 
 ## Frontend Setup (React)
 
@@ -40,17 +40,17 @@ The backend will now be running at http://localhost:5000.
 2. Install Dependencies
    Install the necessary dependencies by running the following command:
 
-npm install
-or
-yarn install
+   npm install
+   or
+   yarn install
 
 3. Start the Frontend Development Server
    To run the React development server, use the following command:
 
-npm start
-or
-yarn start
-The frontend will now be running at http://localhost:3000.
+   npm start
+   or
+   yarn start
+   The frontend will now be running at http://localhost:3000.
 
 Usage
 Open the app in the browser by navigating to http://localhost:3000 for the frontend.
